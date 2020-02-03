@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "Prototype\Prototype.csproj", "{4065C29D-3D40-4429-86B2-08EB2EC63DBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeRealWorld", "PrototypeRealWorld\PrototypeRealWorld.csproj", "{355C776E-1B2D-462D-B2F3-B3D9FBA943DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4065C29D-3D40-4429-86B2-08EB2EC63DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4065C29D-3D40-4429-86B2-08EB2EC63DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4065C29D-3D40-4429-86B2-08EB2EC63DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4065C29D-3D40-4429-86B2-08EB2EC63DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355C776E-1B2D-462D-B2F3-B3D9FBA943DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355C776E-1B2D-462D-B2F3-B3D9FBA943DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355C776E-1B2D-462D-B2F3-B3D9FBA943DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355C776E-1B2D-462D-B2F3-B3D9FBA943DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B04D42A9-2B47-4EBE-9224-6423A8EF3CCD}
+	EndGlobalSection
+EndGlobal
